@@ -11,7 +11,7 @@ router.post("/api/workouts", ({ body }, res) => {
       });
 });
 
-router.put("/api/workout/:id", (req, res) => {
+router.put("/api/workouts/:id", (req, res) => {
     const {body, params} = req;
     const condition = {_id: params.id};
   Workout.findOneAndUpdate(condition, body)
