@@ -24,7 +24,7 @@ Home Page
 
 ![image](/assets/1-Home.jpg)
 
-Add Exercizes
+Add Exercise
 
 ![image](/assets/2-Add-Exercise.jpg)
 
