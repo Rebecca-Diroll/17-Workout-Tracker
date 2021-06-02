@@ -16,7 +16,7 @@ You want to make healthier choices and lead a more active life. This app will he
 ## GitHub
 GitHub Repository: https://github.com/Rebecca-Diroll/17-Workout-Tracker
 
-
 ## Heroku
 Heroku Deployment: https://rdd-workout-tracker.herokuapp.com
 
+## Images
