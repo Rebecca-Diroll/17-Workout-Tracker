@@ -27,7 +27,7 @@ const workoutSchema = new Schema({
                 type: Number,
                 trim: true,
                 requred: "Enter distance (miles): "
-            }
+            },
             weight: {
                 type: Number,
                 trim: true,
