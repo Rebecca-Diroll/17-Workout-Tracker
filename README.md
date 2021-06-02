@@ -24,9 +24,10 @@ Home Page
 
 ![image](/assets/1-Home.jpg)
 
-Add Exercies
+Add Exercizes
 
 ![image](/assets/2-Add-Exercise.jpg)
 
 Workout History
+
 ![image](/assets/3-Workout-History.jpg)
