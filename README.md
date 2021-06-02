@@ -20,3 +20,13 @@ GitHub Repository: https://github.com/Rebecca-Diroll/17-Workout-Tracker
 Heroku Deployment: https://rdd-workout-tracker.herokuapp.com
 
 ## Images
+Home Page
+
+![image](/assets/1-Home.jpg)
+
+Add Exercies
+
+![image](/assets/2-Add-Exercise.jpg)
+
+Workout History
+![image](/assets/3-Workout-History.jpg)
